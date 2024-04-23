@@ -1,1 +1,2 @@
-# Exploratory-Data-Analysis-and-Pre-processing-on-Google-App-Store-Rating-Dataset-
+# Exploratory Data Analysis and Pre processing on Google App Store Rating Dataset 
+This Project involved an Exploratory Data Analysis (EDA) and pre-processing on a 10K Play Store app dataset for analyzing the Android market. This project aims to extract meaningful insights from the collected app data and user ratings from the app stores and pre-process the data for future use in any predictive analysis study. Utilizing Numpy and Pandas for the statistical analysis.
